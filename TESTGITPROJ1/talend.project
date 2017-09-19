@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_OE4mgZ1bEeeS8cvxj7JcHw" label="testgitproj1" description="" language="java" technicalLabel="TESTGITPROJ1" creationDate="2017-09-19T09:40:09.965-0700" author="_OE4mgp1bEeeS8cvxj7JcHw" productVersion="Talend Data Fabric-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/shmooth/testrepo621.git&quot;,&quot;login&quot;:&quot;psmithsf@gmail.com&quot;,&quot;passwd&quot;:&quot;9VAo0K4bIhIlR2oQCWexEQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_OE4mgZ1bEeeS8cvxj7JcHw" label="testgitproj1" description="" language="java" technicalLabel="TESTGITPROJ1" creationDate="2017-09-19T09:40:09.965-0700" author="_OE4mgp1bEeeS8cvxj7JcHw" productVersion="Talend Data Fabric-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/shmooth/testrepo621.git&quot;,&quot;login&quot;:&quot;psmithsf@gmail.com&quot;,&quot;passwd&quot;:&quot;9VAo0K4bIhIlR2oQCWexEQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_PoS6AJ1bEeeS8cvxj7JcHw" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_PoS6AZ1bEeeS8cvxj7JcHw" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_PoS6Ap1bEeeS8cvxj7JcHw" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_PoOBgJ1bEeeS8cvxj7JcHw" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_PoOBgZ1bEeeS8cvxj7JcHw" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_PoOBgp1bEeeS8cvxj7JcHw" label="validated" code="VAL"/>
     <migrationTask xmi:id="_Pm6Z8J1bEeeS8cvxj7JcHw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Pm6Z8Z1bEeeS8cvxj7JcHw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Pm6Z8p1bEeeS8cvxj7JcHw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
